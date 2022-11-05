@@ -2,19 +2,18 @@ package ui;
 
 import model.*;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 import static model.ItemType.CARROT;
 
-public class FarmGame {
+public class TestItemsInConsole {
 
     private Player player;
     private Inventory inventory;
     private Scanner input;
 
 
-    public FarmGame() throws InventoryFullException {
+    public TestItemsInConsole() throws InventoryFullException {
         boolean keepGoing = true;
 
         System.out.println("Hello Farmer! Welcome to Rosewood Farm <3");
