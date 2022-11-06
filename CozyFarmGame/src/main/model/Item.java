@@ -1,7 +1,5 @@
 package model;
 
-import java.lang.reflect.Type;
-
 // represents an Inventory Item with a ItemType and count
 
 public class Item {

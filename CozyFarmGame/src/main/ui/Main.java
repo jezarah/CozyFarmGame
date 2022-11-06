@@ -1,7 +1,5 @@
 package ui;
 
-import model.InventoryFullException;
-
 import javax.swing.*;
 
 public class Main {
