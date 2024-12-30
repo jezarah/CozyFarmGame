@@ -1,5 +1,6 @@
 
-# Cozy Farm Game - Rosewood Farm
+# Cozy Farm Game - Rosewood Farm 
+Built in Java
 
 ## A Basic Farming Role-Playing Game (RPG)
 This project is a mini farming simulator game where you the player run a humble farm with crops and farm animals. As the farmer:
