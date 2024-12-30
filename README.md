@@ -10,4 +10,4 @@ This project is a mini farming simulator game where you the player run a humble 
 
 This game is inspired by the cozy game genre and my personal love for nostalgic pixel top down games.
 
-![image info](CozyFarmGame/data/RosewoodFarm.png)
+![image info](data/RosewoodFarm.png)
